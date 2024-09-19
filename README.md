@@ -25,4 +25,5 @@ Le frontend est construit en Vue.js et permet à l'utilisateur d'interagir avec 
 
 Liste des Jeux : Affiche la bibliothèque de jeux.
 Ajout de Jeu : Affiche un formulaire pour ajouter un jeu à la base de données.
+
 L'utilisateur peut naviguer entre ces écrans via des liens. Le formulaire d'ajout de jeu envoie une requête POST au backend pour ajouter un jeu à la base de données.
