@@ -1,18 +1,25 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import GameList from '../components/GameList.vue';
 import AddGame from '../components/AddGame.vue';
+import EditGame from '../components/EditGame.vue';
+
 
 const routes = [
   {
-    path: '/',               // Route racine, affiche la liste des jeux
+    path: '/',  
     name: 'GameList',
     component: GameList
   },
   {
-    path: '/add',            // Route pour ajouter un jeu
+    path: '/add',     
     name: 'AddGame',
     component: AddGame
-  }
+  },
+  {
+    path: '/edit/:id', 
+    name: 'EditGame',
+    component: EditGame
+  },
 ];
 
 const router = createRouter({
