@@ -44,4 +44,12 @@ Vérifications
 Backend : Accédez à http://localhost:3000 dans votre navigateur.
 Frontend : Accédez à http://localhost:8080 dans votre navigateur pour voir l'interface utilisateur.
 
+NIVEAU 1
+Réalisation :
+le backend dispose au moins de 4 à 5 endpoint dont au moins méthode post
+le backend stocker ses données dans mongodb
+le frontend dispose d'au moins 3 écrans
+sans être une oeuvre d'art, les principes de hierarchie visuel devront être utilisé dans le frontend
+
+
 
