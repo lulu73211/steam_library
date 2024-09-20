@@ -51,5 +51,5 @@ le backend stocker ses données dans mongodb
 le frontend dispose d'au moins 3 écrans
 sans être une oeuvre d'art, les principes de hierarchie visuel devront être utilisé dans le frontend
 
-
-
+Réalisé par Lucas Labeye pour le niveau 0
+Réalisé par Rayane Besrour et Lucas Labeye pour le niveau 1
