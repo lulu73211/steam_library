@@ -28,3 +28,20 @@ Ajout de Jeu : Affiche un formulaire pour ajouter un jeu à la base de données.
 
 L'utilisateur peut naviguer entre ces écrans via des liens. Le formulaire d'ajout de jeu envoie une requête POST au backend pour ajouter un jeu à la base de données.
 
+Pour lancer le projet :
+
+BACKEND
+cd steam-library/steam-library-backend
+npm install (si nécessaire)
+node app.js (ou npx nodemon app.js)
+
+FRONTEND
+cd steam-library/steam-library-frontend
+npm install (si nécessaire)
+npm run serve
+
+Vérifications
+Backend : Accédez à http://localhost:3000 dans votre navigateur.
+Frontend : Accédez à http://localhost:8080 dans votre navigateur pour voir l'interface utilisateur.
+
+
